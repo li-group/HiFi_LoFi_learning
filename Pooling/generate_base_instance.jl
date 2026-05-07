@@ -1,3 +1,5 @@
+using Pkg
+Pkg.activate("Gnn_environment")
 using Random,JSON
 
 rand_uniform(rng, a, b) = round(rand(rng) * (b - a) + a,digits = 2)

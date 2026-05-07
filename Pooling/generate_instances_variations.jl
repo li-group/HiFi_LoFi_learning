@@ -1,3 +1,5 @@
+using Pkg
+Pkg.activate("Gnn_environment")
 using Random
 using JSON
 using BSON

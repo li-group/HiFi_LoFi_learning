@@ -1,4 +1,5 @@
-
+using Pkg
+Pkg.activate("Gnn_environment")
 using JuMP
 using Gurobi
 using DiffOpt
