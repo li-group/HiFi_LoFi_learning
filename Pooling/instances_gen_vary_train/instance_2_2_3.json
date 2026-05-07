@@ -1,0 +1,4409 @@
+{
+    "component_to_pool_fraction": [
+        {
+            "cost": -17.0,
+            "component": "S3",
+            "pool": "L20",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S5",
+            "pool": "L8",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S4",
+            "pool": "L6",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S5",
+            "pool": "L9",
+            "fraction": 1
+        },
+        {
+            "cost": -28.0,
+            "component": "S2",
+            "pool": "L16",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S8",
+            "pool": "L14",
+            "fraction": 1
+        },
+        {
+            "cost": -39.0,
+            "component": "S14",
+            "pool": "L12",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S12",
+            "pool": "L16",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S12",
+            "pool": "L19",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S18",
+            "pool": "L11",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S6",
+            "pool": "L18",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S5",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S1",
+            "pool": "L19",
+            "fraction": 1
+        },
+        {
+            "cost": -46.0,
+            "component": "S13",
+            "pool": "L15",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S6",
+            "pool": "L7",
+            "fraction": 1
+        },
+        {
+            "cost": -48.0,
+            "component": "S25",
+            "pool": "L2",
+            "fraction": 1
+        },
+        {
+            "cost": -22.0,
+            "component": "S9",
+            "pool": "L22",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S8",
+            "pool": "L3",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S5",
+            "pool": "L2",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S22",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -42.0,
+            "component": "S15",
+            "pool": "L15",
+            "fraction": 1
+        },
+        {
+            "cost": -48.0,
+            "component": "S25",
+            "pool": "L14",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S3",
+            "pool": "L5",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S19",
+            "pool": "L9",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S20",
+            "pool": "L20",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S21",
+            "pool": "L14",
+            "fraction": 1
+        },
+        {
+            "cost": -22.0,
+            "component": "S9",
+            "pool": "L12",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S21",
+            "pool": "L7",
+            "fraction": 1
+        },
+        {
+            "cost": -46.0,
+            "component": "S13",
+            "pool": "L2",
+            "fraction": 1
+        },
+        {
+            "cost": -39.0,
+            "component": "S14",
+            "pool": "L10",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S4",
+            "pool": "L4",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S12",
+            "pool": "L12",
+            "fraction": 1
+        },
+        {
+            "cost": -38.0,
+            "component": "S17",
+            "pool": "L15",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S19",
+            "pool": "L5",
+            "fraction": 1
+        },
+        {
+            "cost": -46.0,
+            "component": "S13",
+            "pool": "L6",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S21",
+            "pool": "L9",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S16",
+            "pool": "L19",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S5",
+            "pool": "L7",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S11",
+            "pool": "L5",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S19",
+            "pool": "L10",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S11",
+            "pool": "L14",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S23",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -28.0,
+            "component": "S2",
+            "pool": "L21",
+            "fraction": 1
+        },
+        {
+            "cost": -42.0,
+            "component": "S10",
+            "pool": "L11",
+            "fraction": 1
+        },
+        {
+            "cost": -39.0,
+            "component": "S14",
+            "pool": "L22",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S12",
+            "pool": "L10",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S19",
+            "pool": "L3",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S20",
+            "pool": "L7",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S22",
+            "pool": "L21",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S23",
+            "pool": "L7",
+            "fraction": 1
+        },
+        {
+            "cost": -38.0,
+            "component": "S17",
+            "pool": "L18",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S4",
+            "pool": "L11",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S22",
+            "pool": "L1",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S16",
+            "pool": "L21",
+            "fraction": 1
+        },
+        {
+            "cost": -42.0,
+            "component": "S15",
+            "pool": "L18",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S20",
+            "pool": "L2",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S16",
+            "pool": "L12",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S1",
+            "pool": "L6",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S24",
+            "pool": "L18",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S19",
+            "pool": "L12",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S5",
+            "pool": "L5",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S21",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S5",
+            "pool": "L4",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S7",
+            "pool": "L21",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S24",
+            "pool": "L4",
+            "fraction": 1
+        },
+        {
+            "cost": -22.0,
+            "component": "S9",
+            "pool": "L11",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S5",
+            "pool": "L1",
+            "fraction": 1
+        },
+        {
+            "cost": -28.0,
+            "component": "S2",
+            "pool": "L10",
+            "fraction": 1
+        },
+        {
+            "cost": -39.0,
+            "component": "S14",
+            "pool": "L7",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S3",
+            "pool": "L11",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S12",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S4",
+            "pool": "L19",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S7",
+            "pool": "L8",
+            "fraction": 1
+        },
+        {
+            "cost": -38.0,
+            "component": "S17",
+            "pool": "L20",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S24",
+            "pool": "L8",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S1",
+            "pool": "L16",
+            "fraction": 1
+        },
+        {
+            "cost": -39.0,
+            "component": "S14",
+            "pool": "L4",
+            "fraction": 1
+        },
+        {
+            "cost": -22.0,
+            "component": "S9",
+            "pool": "L3",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S8",
+            "pool": "L16",
+            "fraction": 1
+        },
+        {
+            "cost": -38.0,
+            "component": "S17",
+            "pool": "L14",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S6",
+            "pool": "L10",
+            "fraction": 1
+        },
+        {
+            "cost": -46.0,
+            "component": "S13",
+            "pool": "L8",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S21",
+            "pool": "L3",
+            "fraction": 1
+        },
+        {
+            "cost": -42.0,
+            "component": "S10",
+            "pool": "L20",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S3",
+            "pool": "L1",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S1",
+            "pool": "L2",
+            "fraction": 1
+        },
+        {
+            "cost": -46.0,
+            "component": "S13",
+            "pool": "L19",
+            "fraction": 1
+        },
+        {
+            "cost": -39.0,
+            "component": "S14",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S24",
+            "pool": "L9",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S6",
+            "pool": "L15",
+            "fraction": 1
+        },
+        {
+            "cost": -28.0,
+            "component": "S2",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -28.0,
+            "component": "S2",
+            "pool": "L11",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S20",
+            "pool": "L5",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S20",
+            "pool": "L21",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S18",
+            "pool": "L20",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S1",
+            "pool": "L1",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S18",
+            "pool": "L18",
+            "fraction": 1
+        },
+        {
+            "cost": -38.0,
+            "component": "S17",
+            "pool": "L16",
+            "fraction": 1
+        },
+        {
+            "cost": -42.0,
+            "component": "S10",
+            "pool": "L6",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S11",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S21",
+            "pool": "L2",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S12",
+            "pool": "L22",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S5",
+            "pool": "L3",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S7",
+            "pool": "L1",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S20",
+            "pool": "L14",
+            "fraction": 1
+        },
+        {
+            "cost": -28.0,
+            "component": "S2",
+            "pool": "L5",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S20",
+            "pool": "L16",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S7",
+            "pool": "L15",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S1",
+            "pool": "L21",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S12",
+            "pool": "L18",
+            "fraction": 1
+        },
+        {
+            "cost": -38.0,
+            "component": "S17",
+            "pool": "L5",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S19",
+            "pool": "L20",
+            "fraction": 1
+        },
+        {
+            "cost": -42.0,
+            "component": "S15",
+            "pool": "L14",
+            "fraction": 1
+        },
+        {
+            "cost": -48.0,
+            "component": "S25",
+            "pool": "L8",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S18",
+            "pool": "L8",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S16",
+            "pool": "L6",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S3",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S7",
+            "pool": "L14",
+            "fraction": 1
+        },
+        {
+            "cost": -46.0,
+            "component": "S13",
+            "pool": "L16",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S1",
+            "pool": "L18",
+            "fraction": 1
+        },
+        {
+            "cost": -28.0,
+            "component": "S2",
+            "pool": "L2",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S8",
+            "pool": "L15",
+            "fraction": 1
+        },
+        {
+            "cost": -48.0,
+            "component": "S25",
+            "pool": "L9",
+            "fraction": 1
+        },
+        {
+            "cost": -46.0,
+            "component": "S13",
+            "pool": "L7",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S20",
+            "pool": "L6",
+            "fraction": 1
+        },
+        {
+            "cost": -22.0,
+            "component": "S9",
+            "pool": "L17",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S5",
+            "pool": "L12",
+            "fraction": 1
+        },
+        {
+            "cost": -46.0,
+            "component": "S13",
+            "pool": "L11",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S16",
+            "pool": "L10",
+            "fraction": 1
+        },
+        {
+            "cost": -28.0,
+            "component": "S2",
+            "pool": "L17",
+            "fraction": 1
+        },
+        {
+            "cost": -39.0,
+            "component": "S14",
+            "pool": "L16",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S12",
+            "pool": "L21",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S8",
+            "pool": "L8",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S8",
+            "pool": "L22",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S8",
+            "pool": "L5",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S4",
+            "pool": "L21",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S18",
+            "pool": "L7",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S1",
+            "pool": "L4",
+            "fraction": 1
+        },
+        {
+            "cost": -48.0,
+            "component": "S25",
+            "pool": "L3",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S6",
+            "pool": "L19",
+            "fraction": 1
+        },
+        {
+            "cost": -42.0,
+            "component": "S10",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S8",
+            "pool": "L2",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S16",
+            "pool": "L22",
+            "fraction": 1
+        },
+        {
+            "cost": -38.0,
+            "component": "S17",
+            "pool": "L8",
+            "fraction": 1
+        },
+        {
+            "cost": -39.0,
+            "component": "S14",
+            "pool": "L3",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S11",
+            "pool": "L6",
+            "fraction": 1
+        },
+        {
+            "cost": -48.0,
+            "component": "S25",
+            "pool": "L19",
+            "fraction": 1
+        },
+        {
+            "cost": -38.0,
+            "component": "S17",
+            "pool": "L9",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S7",
+            "pool": "L22",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S21",
+            "pool": "L8",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S19",
+            "pool": "L16",
+            "fraction": 1
+        },
+        {
+            "cost": -22.0,
+            "component": "S9",
+            "pool": "L18",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S18",
+            "pool": "L1",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S6",
+            "pool": "L20",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S20",
+            "pool": "L12",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S1",
+            "pool": "L3",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S18",
+            "pool": "L22",
+            "fraction": 1
+        },
+        {
+            "cost": -48.0,
+            "component": "S25",
+            "pool": "L1",
+            "fraction": 1
+        },
+        {
+            "cost": -38.0,
+            "component": "S17",
+            "pool": "L21",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S24",
+            "pool": "L22",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S16",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -42.0,
+            "component": "S10",
+            "pool": "L9",
+            "fraction": 1
+        },
+        {
+            "cost": -42.0,
+            "component": "S15",
+            "pool": "L11",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S24",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S11",
+            "pool": "L11",
+            "fraction": 1
+        },
+        {
+            "cost": -39.0,
+            "component": "S14",
+            "pool": "L19",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S19",
+            "pool": "L18",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S18",
+            "pool": "L2",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S24",
+            "pool": "L3",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S6",
+            "pool": "L5",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S8",
+            "pool": "L20",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S1",
+            "pool": "L17",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S20",
+            "pool": "L18",
+            "fraction": 1
+        },
+        {
+            "cost": -39.0,
+            "component": "S14",
+            "pool": "L14",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S8",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -42.0,
+            "component": "S15",
+            "pool": "L10",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S11",
+            "pool": "L22",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S22",
+            "pool": "L16",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S16",
+            "pool": "L15",
+            "fraction": 1
+        },
+        {
+            "cost": -46.0,
+            "component": "S13",
+            "pool": "L20",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S8",
+            "pool": "L19",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S21",
+            "pool": "L15",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S20",
+            "pool": "L15",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S5",
+            "pool": "L21",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S11",
+            "pool": "L4",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S6",
+            "pool": "L12",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S3",
+            "pool": "L14",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S5",
+            "pool": "L6",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S6",
+            "pool": "L3",
+            "fraction": 1
+        },
+        {
+            "cost": -48.0,
+            "component": "S25",
+            "pool": "L6",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S21",
+            "pool": "L4",
+            "fraction": 1
+        },
+        {
+            "cost": -46.0,
+            "component": "S13",
+            "pool": "L12",
+            "fraction": 1
+        },
+        {
+            "cost": -46.0,
+            "component": "S13",
+            "pool": "L5",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S7",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -22.0,
+            "component": "S9",
+            "pool": "L10",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S1",
+            "pool": "L9",
+            "fraction": 1
+        },
+        {
+            "cost": -42.0,
+            "component": "S10",
+            "pool": "L1",
+            "fraction": 1
+        },
+        {
+            "cost": -42.0,
+            "component": "S10",
+            "pool": "L10",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S6",
+            "pool": "L6",
+            "fraction": 1
+        },
+        {
+            "cost": -38.0,
+            "component": "S17",
+            "pool": "L2",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S19",
+            "pool": "L13",
+            "fraction": 1
+        },
+        {
+            "cost": -39.0,
+            "component": "S14",
+            "pool": "L9",
+            "fraction": 1
+        },
+        {
+            "cost": -42.0,
+            "component": "S15",
+            "pool": "L17",
+            "fraction": 1
+        },
+        {
+            "cost": -42.0,
+            "component": "S10",
+            "pool": "L17",
+            "fraction": 1
+        },
+        {
+            "cost": -28.0,
+            "component": "S2",
+            "pool": "L20",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S5",
+            "pool": "L17",
+            "fraction": 1
+        },
+        {
+            "cost": -48.0,
+            "component": "S25",
+            "pool": "L4",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S12",
+            "pool": "L7",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S18",
+            "pool": "L4",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S23",
+            "pool": "L18",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S24",
+            "pool": "L17",
+            "fraction": 1
+        },
+        {
+            "cost": -21.0,
+            "component": "S4",
+            "pool": "L1",
+            "fraction": 1
+        },
+        {
+            "cost": -46.0,
+            "component": "S13",
+            "pool": "L22",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S12",
+            "pool": "L11",
+            "fraction": 1
+        },
+        {
+            "cost": -38.0,
+            "component": "S17",
+            "pool": "L17",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S20",
+            "pool": "L4",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S22",
+            "pool": "L12",
+            "fraction": 1
+        },
+        {
+            "cost": -17.0,
+            "component": "S21",
+            "pool": "L17",
+            "fraction": 1
+        },
+        {
+            "cost": -34.0,
+            "component": "S22",
+            "pool": "L9",
+            "fraction": 1
+        },
+        {
+            "cost": -39.0,
+            "component": "S14",
+            "pool": "L1",
+            "fraction": 1
+        },
+        {
+            "cost": -38.0,
+            "component": "S17",
+            "pool": "L19",
+            "fraction": 1
+        },
+        {
+            "cost": -20.0,
+            "component": "S18",
+            "pool": "L10",
+            "fraction": 1
+        },
+        {
+            "cost": -44.0,
+            "component": "S1",
+            "pool": "L15",
+            "fraction": 1
+        },
+        {
+            "cost": -23.0,
+            "component": "S12",
+            "pool": "L17",
+            "fraction": 1
+        },
+        {
+            "cost": -47.0,
+            "component": "S20",
+            "pool": "L8",
+            "fraction": 1
+        },
+        {
+            "cost": -38.0,
+            "component": "S17",
+            "pool": "L4",
+            "fraction": 1
+        },
+        {
+            "cost": -28.0,
+            "component": "S2",
+            "pool": "L7",
+            "fraction": 1
+        }
+    ],
+    "products": [
+        {
+            "name": "T1",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 22.56,
+                "P3": 14.69,
+                "P5": 32.68,
+                "P8": 22.66,
+                "P6": 33.14,
+                "P7": 10.65,
+                "P2": 35.48,
+                "P1": 37.8,
+                "P9": 22.78,
+                "P4": 25.52
+            },
+            "upper": 224.74,
+            "quality_upper": {
+                "P10": 33.13,
+                "P3": 55.74,
+                "P5": 46.33,
+                "P8": 64.84,
+                "P6": 69.97,
+                "P7": 46.67,
+                "P2": 64.86,
+                "P1": 48.85,
+                "P9": 72.87,
+                "P4": 48.72
+            }
+        },
+        {
+            "name": "T2",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 17.46,
+                "P3": 11.96,
+                "P5": 21.65,
+                "P8": 20.47,
+                "P6": 14.79,
+                "P7": 34.06,
+                "P2": 33.0,
+                "P1": 40.29,
+                "P9": 27.24,
+                "P4": 41.94
+            },
+            "upper": 109.22,
+            "quality_upper": {
+                "P10": 31.81,
+                "P3": 29.83,
+                "P5": 45.82,
+                "P8": 39.73,
+                "P6": 60.99,
+                "P7": 53.03,
+                "P2": 70.17,
+                "P1": 70.99,
+                "P9": 64.03,
+                "P4": 66.1
+            }
+        },
+        {
+            "name": "T3",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 19.74,
+                "P3": 12.93,
+                "P5": 10.54,
+                "P8": 20.47,
+                "P6": 33.77,
+                "P7": 34.77,
+                "P2": 34.04,
+                "P1": 27.75,
+                "P9": 41.7,
+                "P4": 32.05
+            },
+            "upper": 151.02,
+            "quality_upper": {
+                "P10": 36.63,
+                "P3": 56.86,
+                "P5": 24.36,
+                "P8": 67.69,
+                "P6": 48.63,
+                "P7": 52.37,
+                "P2": 55.71,
+                "P1": 54.21,
+                "P9": 52.5,
+                "P4": 55.88
+            }
+        },
+        {
+            "name": "T4",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 34.66,
+                "P3": 34.04,
+                "P5": 17.13,
+                "P8": 21.07,
+                "P6": 15.16,
+                "P7": 29.34,
+                "P2": 41.73,
+                "P1": 37.26,
+                "P9": 25.15,
+                "P4": 33.52
+            },
+            "upper": 81.13,
+            "quality_upper": {
+                "P10": 63.63,
+                "P3": 49.39,
+                "P5": 36.61,
+                "P8": 67.95,
+                "P6": 70.05,
+                "P7": 59.38,
+                "P2": 56.02,
+                "P1": 55.09,
+                "P9": 39.69,
+                "P4": 55.12
+            }
+        },
+        {
+            "name": "T5",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 41.05,
+                "P3": 29.52,
+                "P5": 27.14,
+                "P8": 14.36,
+                "P6": 29.87,
+                "P7": 24.07,
+                "P2": 13.67,
+                "P1": 34.8,
+                "P9": 33.41,
+                "P4": 23.54
+            },
+            "upper": 74.16,
+            "quality_upper": {
+                "P10": 52.71,
+                "P3": 45.45,
+                "P5": 69.48,
+                "P8": 66.0,
+                "P6": 44.6,
+                "P7": 69.07,
+                "P2": 28.6,
+                "P1": 66.42,
+                "P9": 59.34,
+                "P4": 57.37
+            }
+        },
+        {
+            "name": "T6",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 40.52,
+                "P3": 9.3,
+                "P5": 28.53,
+                "P8": 28.36,
+                "P6": 32.23,
+                "P7": 30.45,
+                "P2": 20.33,
+                "P1": 36.53,
+                "P9": 30.68,
+                "P4": 31.2
+            },
+            "upper": 151.9,
+            "quality_upper": {
+                "P10": 58.76,
+                "P3": 45.02,
+                "P5": 51.15,
+                "P8": 63.19,
+                "P6": 66.27,
+                "P7": 59.38,
+                "P2": 43.85,
+                "P1": 65.38,
+                "P9": 51.64,
+                "P4": 42.59
+            }
+        },
+        {
+            "name": "T7",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 37.55,
+                "P3": 23.08,
+                "P5": 17.86,
+                "P8": 35.27,
+                "P6": 25.68,
+                "P7": 26.93,
+                "P2": 40.49,
+                "P1": 26.52,
+                "P9": 35.57,
+                "P4": 37.43
+            },
+            "upper": 181.72,
+            "quality_upper": {
+                "P10": 71.4,
+                "P3": 45.1,
+                "P5": 39.65,
+                "P8": 66.84,
+                "P6": 68.62,
+                "P7": 50.45,
+                "P2": 55.92,
+                "P1": 64.2,
+                "P9": 61.63,
+                "P4": 57.45
+            }
+        },
+        {
+            "name": "T8",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 33.01,
+                "P3": 29.87,
+                "P5": 15.68,
+                "P8": 35.74,
+                "P6": 17.7,
+                "P7": 16.54,
+                "P2": 13.29,
+                "P1": 38.58,
+                "P9": 43.53,
+                "P4": 18.98
+            },
+            "upper": 82.91,
+            "quality_upper": {
+                "P10": 71.97,
+                "P3": 60.88,
+                "P5": 53.79,
+                "P8": 66.5,
+                "P6": 36.5,
+                "P7": 38.48,
+                "P2": 55.15,
+                "P1": 61.42,
+                "P9": 72.12,
+                "P4": 29.91
+            }
+        },
+        {
+            "name": "T9",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 40.52,
+                "P3": 25.62,
+                "P5": 22.25,
+                "P8": 19.57,
+                "P6": 24.62,
+                "P7": 17.81,
+                "P2": 35.03,
+                "P1": 15.19,
+                "P9": 35.33,
+                "P4": 13.91
+            },
+            "upper": 123.91,
+            "quality_upper": {
+                "P10": 67.11,
+                "P3": 66.22,
+                "P5": 62.03,
+                "P8": 42.23,
+                "P6": 67.33,
+                "P7": 59.91,
+                "P2": 58.62,
+                "P1": 51.38,
+                "P9": 53.41,
+                "P4": 49.27
+            }
+        },
+        {
+            "name": "T10",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 34.35,
+                "P3": 36.23,
+                "P5": 16.04,
+                "P8": 37.01,
+                "P6": 33.64,
+                "P7": 22.83,
+                "P2": 26.06,
+                "P1": 28.17,
+                "P9": 24.06,
+                "P4": 41.32
+            },
+            "upper": 195.01,
+            "quality_upper": {
+                "P10": 48.93,
+                "P3": 67.71,
+                "P5": 36.0,
+                "P8": 55.33,
+                "P6": 45.93,
+                "P7": 55.64,
+                "P2": 71.13,
+                "P1": 58.84,
+                "P9": 68.23,
+                "P4": 56.17
+            }
+        },
+        {
+            "name": "T11",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 16.93,
+                "P3": 24.06,
+                "P5": 11.43,
+                "P8": 38.87,
+                "P6": 38.52,
+                "P7": 17.16,
+                "P2": 19.61,
+                "P1": 29.11,
+                "P9": 22.8,
+                "P4": 27.66
+            },
+            "upper": 159.44,
+            "quality_upper": {
+                "P10": 65.59,
+                "P3": 56.15,
+                "P5": 68.17,
+                "P8": 52.9,
+                "P6": 64.33,
+                "P7": 45.14,
+                "P2": 42.13,
+                "P1": 63.34,
+                "P9": 43.42,
+                "P4": 59.01
+            }
+        },
+        {
+            "name": "T12",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 36.2,
+                "P3": 15.68,
+                "P5": 25.79,
+                "P8": 35.73,
+                "P6": 13.86,
+                "P7": 35.75,
+                "P2": 18.58,
+                "P1": 20.89,
+                "P9": 13.98,
+                "P4": 12.15
+            },
+            "upper": 161.58,
+            "quality_upper": {
+                "P10": 59.71,
+                "P3": 57.38,
+                "P5": 61.06,
+                "P8": 54.71,
+                "P6": 56.9,
+                "P7": 54.86,
+                "P2": 49.33,
+                "P1": 46.05,
+                "P9": 48.64,
+                "P4": 69.43
+            }
+        },
+        {
+            "name": "T13",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 31.97,
+                "P3": 17.79,
+                "P5": 38.93,
+                "P8": 28.43,
+                "P6": 30.05,
+                "P7": 15.82,
+                "P2": 10.63,
+                "P1": 15.0,
+                "P9": 21.21,
+                "P4": 36.89
+            },
+            "upper": 84.66,
+            "quality_upper": {
+                "P10": 54.95,
+                "P3": 64.42,
+                "P5": 65.48,
+                "P8": 46.57,
+                "P6": 57.76,
+                "P7": 69.41,
+                "P2": 43.04,
+                "P1": 70.89,
+                "P9": 38.87,
+                "P4": 63.83
+            }
+        },
+        {
+            "name": "T14",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 34.7,
+                "P3": 26.32,
+                "P5": 33.23,
+                "P8": 11.99,
+                "P6": 29.06,
+                "P7": 27.1,
+                "P2": 35.97,
+                "P1": 40.6,
+                "P9": 15.08,
+                "P4": 35.56
+            },
+            "upper": 80.09,
+            "quality_upper": {
+                "P10": 72.74,
+                "P3": 39.67,
+                "P5": 48.68,
+                "P8": 25.95,
+                "P6": 48.01,
+                "P7": 45.33,
+                "P2": 66.7,
+                "P1": 56.17,
+                "P9": 32.23,
+                "P4": 62.74
+            }
+        },
+        {
+            "name": "T15",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 31.76,
+                "P3": 39.65,
+                "P5": 24.21,
+                "P8": 11.02,
+                "P6": 37.23,
+                "P7": 24.25,
+                "P2": 14.59,
+                "P1": 38.99,
+                "P9": 19.02,
+                "P4": 21.34
+            },
+            "upper": 107.62,
+            "quality_upper": {
+                "P10": 70.05,
+                "P3": 72.3,
+                "P5": 47.74,
+                "P8": 68.75,
+                "P6": 57.07,
+                "P7": 48.24,
+                "P2": 72.36,
+                "P1": 55.67,
+                "P9": 61.53,
+                "P4": 45.57
+            }
+        },
+        {
+            "name": "T16",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 40.25,
+                "P3": 36.88,
+                "P5": 22.69,
+                "P8": 13.14,
+                "P6": 28.82,
+                "P7": 27.19,
+                "P2": 26.71,
+                "P1": 23.36,
+                "P9": 34.91,
+                "P4": 41.12
+            },
+            "upper": 179.68,
+            "quality_upper": {
+                "P10": 59.46,
+                "P3": 66.31,
+                "P5": 64.98,
+                "P8": 33.6,
+                "P6": 41.3,
+                "P7": 65.94,
+                "P2": 54.75,
+                "P1": 73.56,
+                "P9": 59.03,
+                "P4": 53.16
+            }
+        },
+        {
+            "name": "T17",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 14.08,
+                "P3": 22.75,
+                "P5": 17.28,
+                "P8": 37.49,
+                "P6": 17.63,
+                "P7": 21.26,
+                "P2": 31.04,
+                "P1": 28.4,
+                "P9": 27.79,
+                "P4": 10.84
+            },
+            "upper": 180.98,
+            "quality_upper": {
+                "P10": 26.6,
+                "P3": 51.24,
+                "P5": 53.43,
+                "P8": 48.95,
+                "P6": 69.86,
+                "P7": 44.87,
+                "P2": 70.25,
+                "P1": 68.83,
+                "P9": 58.42,
+                "P4": 70.75
+            }
+        },
+        {
+            "name": "T18",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 40.45,
+                "P3": 35.53,
+                "P5": 39.15,
+                "P8": 39.94,
+                "P6": 20.07,
+                "P7": 34.72,
+                "P2": 30.49,
+                "P1": 31.24,
+                "P9": 31.62,
+                "P4": 20.61
+            },
+            "upper": 145.46,
+            "quality_upper": {
+                "P10": 69.48,
+                "P3": 70.63,
+                "P5": 58.97,
+                "P8": 70.4,
+                "P6": 53.18,
+                "P7": 54.82,
+                "P2": 54.24,
+                "P1": 70.8,
+                "P9": 56.54,
+                "P4": 70.93
+            }
+        },
+        {
+            "name": "T19",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 35.64,
+                "P3": 17.68,
+                "P5": 36.36,
+                "P8": 37.51,
+                "P6": 22.26,
+                "P7": 22.24,
+                "P2": 31.57,
+                "P1": 16.44,
+                "P9": 16.62,
+                "P4": 14.92
+            },
+            "upper": 172.22,
+            "quality_upper": {
+                "P10": 72.11,
+                "P3": 57.32,
+                "P5": 48.1,
+                "P8": 53.45,
+                "P6": 61.31,
+                "P7": 33.63,
+                "P2": 61.48,
+                "P1": 48.44,
+                "P9": 58.6,
+                "P4": 39.1
+            }
+        },
+        {
+            "name": "T20",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 41.74,
+                "P3": 23.41,
+                "P5": 36.0,
+                "P8": 24.15,
+                "P6": 31.03,
+                "P7": 39.74,
+                "P2": 26.95,
+                "P1": 26.44,
+                "P9": 35.36,
+                "P4": 42.15
+            },
+            "upper": 108.79,
+            "quality_upper": {
+                "P10": 68.65,
+                "P3": 56.82,
+                "P5": 52.65,
+                "P8": 54.2,
+                "P6": 62.36,
+                "P7": 57.62,
+                "P2": 59.47,
+                "P1": 65.71,
+                "P9": 51.18,
+                "P4": 61.15
+            }
+        },
+        {
+            "name": "T21",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 18.46,
+                "P3": 22.45,
+                "P5": 34.95,
+                "P8": 22.4,
+                "P6": 21.99,
+                "P7": 15.77,
+                "P2": 17.97,
+                "P1": 30.58,
+                "P9": 22.32,
+                "P4": 37.99
+            },
+            "upper": 110.37,
+            "quality_upper": {
+                "P10": 72.38,
+                "P3": 34.7,
+                "P5": 69.24,
+                "P8": 36.54,
+                "P6": 64.29,
+                "P7": 56.81,
+                "P2": 57.89,
+                "P1": 46.16,
+                "P9": 42.48,
+                "P4": 55.21
+            }
+        },
+        {
+            "name": "T22",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 36.02,
+                "P3": 28.26,
+                "P5": 37.23,
+                "P8": 27.61,
+                "P6": 32.06,
+                "P7": 30.25,
+                "P2": 39.69,
+                "P1": 31.06,
+                "P9": 15.61,
+                "P4": 35.51
+            },
+            "upper": 169.57,
+            "quality_upper": {
+                "P10": 47.46,
+                "P3": 62.65,
+                "P5": 66.19,
+                "P8": 57.66,
+                "P6": 57.33,
+                "P7": 61.65,
+                "P2": 58.24,
+                "P1": 66.42,
+                "P9": 40.57,
+                "P4": 52.27
+            }
+        },
+        {
+            "name": "T23",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 16.01,
+                "P3": 29.59,
+                "P5": 26.24,
+                "P8": 24.02,
+                "P6": 40.7,
+                "P7": 19.78,
+                "P2": 39.52,
+                "P1": 36.43,
+                "P9": 19.05,
+                "P4": 29.06
+            },
+            "upper": 109.47,
+            "quality_upper": {
+                "P10": 48.33,
+                "P3": 47.66,
+                "P5": 41.79,
+                "P8": 36.94,
+                "P6": 57.9,
+                "P7": 53.87,
+                "P2": 53.27,
+                "P1": 68.24,
+                "P9": 53.92,
+                "P4": 68.08
+            }
+        },
+        {
+            "name": "T24",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 37.67,
+                "P3": 30.62,
+                "P5": 41.0,
+                "P8": 18.93,
+                "P6": 32.02,
+                "P7": 24.95,
+                "P2": 22.8,
+                "P1": 18.21,
+                "P9": 21.55,
+                "P4": 30.82
+            },
+            "upper": 116.25,
+            "quality_upper": {
+                "P10": 72.56,
+                "P3": 68.28,
+                "P5": 58.64,
+                "P8": 35.25,
+                "P6": 65.06,
+                "P7": 36.97,
+                "P2": 58.54,
+                "P1": 69.1,
+                "P9": 33.56,
+                "P4": 56.27
+            }
+        },
+        {
+            "name": "T25",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 26.52,
+                "P3": 8.94,
+                "P5": 38.03,
+                "P8": 34.19,
+                "P6": 15.15,
+                "P7": 14.46,
+                "P2": 11.41,
+                "P1": 34.86,
+                "P9": 32.02,
+                "P4": 20.71
+            },
+            "upper": 122.57,
+            "quality_upper": {
+                "P10": 48.73,
+                "P3": 24.89,
+                "P5": 51.63,
+                "P8": 64.29,
+                "P6": 32.32,
+                "P7": 53.28,
+                "P2": 28.27,
+                "P1": 72.23,
+                "P9": 62.12,
+                "P4": 63.8
+            }
+        },
+        {
+            "name": "T26",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 16.56,
+                "P3": 13.41,
+                "P5": 24.34,
+                "P8": 37.02,
+                "P6": 18.26,
+                "P7": 27.6,
+                "P2": 41.0,
+                "P1": 22.67,
+                "P9": 23.64,
+                "P4": 34.81
+            },
+            "upper": 215.91,
+            "quality_upper": {
+                "P10": 60.57,
+                "P3": 50.37,
+                "P5": 47.34,
+                "P8": 52.41,
+                "P6": 32.33,
+                "P7": 59.12,
+                "P2": 55.84,
+                "P1": 49.61,
+                "P9": 65.77,
+                "P4": 61.71
+            }
+        },
+        {
+            "name": "T27",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 22.23,
+                "P3": 17.1,
+                "P5": 36.89,
+                "P8": 21.57,
+                "P6": 34.77,
+                "P7": 34.89,
+                "P2": 32.4,
+                "P1": 12.91,
+                "P9": 19.29,
+                "P4": 23.99
+            },
+            "upper": 74.1,
+            "quality_upper": {
+                "P10": 68.93,
+                "P3": 62.83,
+                "P5": 72.71,
+                "P8": 49.04,
+                "P6": 66.32,
+                "P7": 61.5,
+                "P2": 46.23,
+                "P1": 30.89,
+                "P9": 72.32,
+                "P4": 54.44
+            }
+        },
+        {
+            "name": "T28",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 27.26,
+                "P3": 9.12,
+                "P5": 14.05,
+                "P8": 29.73,
+                "P6": 37.37,
+                "P7": 30.55,
+                "P2": 21.88,
+                "P1": 37.82,
+                "P9": 24.46,
+                "P4": 26.36
+            },
+            "upper": 219.9,
+            "quality_upper": {
+                "P10": 52.9,
+                "P3": 69.16,
+                "P5": 59.34,
+                "P8": 46.27,
+                "P6": 50.89,
+                "P7": 52.0,
+                "P2": 33.36,
+                "P1": 72.09,
+                "P9": 72.03,
+                "P4": 48.45
+            }
+        },
+        {
+            "name": "T29",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 33.4,
+                "P3": 13.47,
+                "P5": 30.9,
+                "P8": 30.7,
+                "P6": 16.15,
+                "P7": 26.27,
+                "P2": 34.04,
+                "P1": 23.02,
+                "P9": 24.27,
+                "P4": 23.59
+            },
+            "upper": 99.43,
+            "quality_upper": {
+                "P10": 49.98,
+                "P3": 43.04,
+                "P5": 71.72,
+                "P8": 44.5,
+                "P6": 51.58,
+                "P7": 56.55,
+                "P2": 61.09,
+                "P1": 52.59,
+                "P9": 42.18,
+                "P4": 42.42
+            }
+        },
+        {
+            "name": "T30",
+            "price": 0.0,
+            "quality_lower": {
+                "P10": 28.28,
+                "P3": 13.57,
+                "P5": 22.82,
+                "P8": 31.49,
+                "P6": 23.65,
+                "P7": 26.44,
+                "P2": 21.76,
+                "P1": 21.23,
+                "P9": 39.37,
+                "P4": 16.41
+            },
+            "upper": 142.27,
+            "quality_upper": {
+                "P10": 53.16,
+                "P3": 58.11,
+                "P5": 52.99,
+                "P8": 63.71,
+                "P6": 58.98,
+                "P7": 64.68,
+                "P2": 71.59,
+                "P1": 71.12,
+                "P9": 60.21,
+                "P4": 50.0
+            }
+        }
+    ],
+    "component_to_product_bound": [
+        {
+            "cost": 28.0,
+            "component": "S22",
+            "product": "T1",
+            "bound": 130.89
+        },
+        {
+            "cost": 4.0,
+            "component": "S25",
+            "product": "T17",
+            "bound": 102.38
+        },
+        {
+            "cost": 36.0,
+            "component": "S11",
+            "product": "T26",
+            "bound": 104.51
+        },
+        {
+            "cost": -29.0,
+            "component": "S13",
+            "product": "T27",
+            "bound": 74.1
+        },
+        {
+            "cost": 52.0,
+            "component": "S6",
+            "product": "T21",
+            "bound": 110.37
+        },
+        {
+            "cost": 27.0,
+            "component": "S13",
+            "product": "T15",
+            "bound": 107.62
+        },
+        {
+            "cost": -30.0,
+            "component": "S7",
+            "product": "T5",
+            "bound": 74.16
+        },
+        {
+            "cost": 70.0,
+            "component": "S16",
+            "product": "T11",
+            "bound": 141.04
+        },
+        {
+            "cost": 16.0,
+            "component": "S19",
+            "product": "T30",
+            "bound": 142.27
+        },
+        {
+            "cost": 50.0,
+            "component": "S11",
+            "product": "T22",
+            "bound": 104.51
+        },
+        {
+            "cost": 44.0,
+            "component": "S16",
+            "product": "T22",
+            "bound": 141.04
+        },
+        {
+            "cost": 4.0,
+            "component": "S25",
+            "product": "T18",
+            "bound": 102.38
+        },
+        {
+            "cost": 47.0,
+            "component": "S11",
+            "product": "T28",
+            "bound": 104.51
+        },
+        {
+            "cost": 32.0,
+            "component": "S18",
+            "product": "T17",
+            "bound": 112.8
+        },
+        {
+            "cost": 42.0,
+            "component": "S18",
+            "product": "T24",
+            "bound": 112.8
+        },
+        {
+            "cost": 14.0,
+            "component": "S5",
+            "product": "T7",
+            "bound": 107.72
+        },
+        {
+            "cost": -19.0,
+            "component": "S10",
+            "product": "T4",
+            "bound": 81.13
+        },
+        {
+            "cost": 51.0,
+            "component": "S9",
+            "product": "T15",
+            "bound": 99.9
+        },
+        {
+            "cost": 25.0,
+            "component": "S7",
+            "product": "T21",
+            "bound": 77.15
+        },
+        {
+            "cost": 30.0,
+            "component": "S25",
+            "product": "T8",
+            "bound": 82.91
+        },
+        {
+            "cost": 58.0,
+            "component": "S17",
+            "product": "T6",
+            "bound": 73.47
+        },
+        {
+            "cost": 55.0,
+            "component": "S22",
+            "product": "T16",
+            "bound": 130.89
+        },
+        {
+            "cost": 0.0,
+            "component": "S21",
+            "product": "T5",
+            "bound": 74.16
+        },
+        {
+            "cost": -22.0,
+            "component": "S14",
+            "product": "T23",
+            "bound": 12.98
+        }
+    ],
+    "components": [
+        {
+            "name": "S1",
+            "price": 0.0,
+            "upper": 195.58,
+            "quality": {
+                "P10": 66.82,
+                "P3": 65.05,
+                "P5": 26.94,
+                "P8": 56.99,
+                "P6": 42.53,
+                "P7": 11.93,
+                "P2": 63.87,
+                "P1": 36.55,
+                "P9": 22.64,
+                "P4": 10.55
+            }
+        },
+        {
+            "name": "S2",
+            "price": 0.0,
+            "upper": 90.5,
+            "quality": {
+                "P10": 40.34,
+                "P3": 10.18,
+                "P5": 58.87,
+                "P8": 37.56,
+                "P6": 51.12,
+                "P7": 37.73,
+                "P2": 9.66,
+                "P1": 37.66,
+                "P9": 61.25,
+                "P4": 45.63
+            }
+        },
+        {
+            "name": "S3",
+            "price": 0.0,
+            "upper": 12.91,
+            "quality": {
+                "P10": 14.83,
+                "P3": 62.88,
+                "P5": 54.13,
+                "P8": 50.71,
+                "P6": 41.57,
+                "P7": 60.32,
+                "P2": 36.97,
+                "P1": 32.64,
+                "P9": 13.67,
+                "P4": 34.84
+            }
+        },
+        {
+            "name": "S4",
+            "price": 0.0,
+            "upper": 15.27,
+            "quality": {
+                "P10": 41.46,
+                "P3": 30.69,
+                "P5": 54.08,
+                "P8": 15.06,
+                "P6": 67.14,
+                "P7": 24.74,
+                "P2": 52.51,
+                "P1": 63.77,
+                "P9": 16.62,
+                "P4": 20.18
+            }
+        },
+        {
+            "name": "S5",
+            "price": 0.0,
+            "upper": 107.72,
+            "quality": {
+                "P10": 54.78,
+                "P3": 55.93,
+                "P5": 19.4,
+                "P8": 41.3,
+                "P6": 51.43,
+                "P7": 45.08,
+                "P2": 20.75,
+                "P1": 16.55,
+                "P9": 42.83,
+                "P4": 65.4
+            }
+        },
+        {
+            "name": "S6",
+            "price": 0.0,
+            "upper": 115.24,
+            "quality": {
+                "P10": 18.22,
+                "P3": 48.05,
+                "P5": 74.1,
+                "P8": 54.41,
+                "P6": 68.22,
+                "P7": 25.6,
+                "P2": 39.83,
+                "P1": 55.11,
+                "P9": 43.75,
+                "P4": 72.2
+            }
+        },
+        {
+            "name": "S7",
+            "price": 0.0,
+            "upper": 77.15,
+            "quality": {
+                "P10": 52.31,
+                "P3": 41.14,
+                "P5": 40.78,
+                "P8": 38.19,
+                "P6": 65.16,
+                "P7": 53.4,
+                "P2": 46.13,
+                "P1": 54.45,
+                "P9": 42.3,
+                "P4": 38.05
+            }
+        },
+        {
+            "name": "S8",
+            "price": 0.0,
+            "upper": 128.26,
+            "quality": {
+                "P10": 19.49,
+                "P3": 20.37,
+                "P5": 46.62,
+                "P8": 19.04,
+                "P6": 50.48,
+                "P7": 32.89,
+                "P2": 24.51,
+                "P1": 19.59,
+                "P9": 44.54,
+                "P4": 31.18
+            }
+        },
+        {
+            "name": "S9",
+            "price": 0.0,
+            "upper": 99.9,
+            "quality": {
+                "P10": 33.55,
+                "P3": 15.51,
+                "P5": 9.9,
+                "P8": 53.1,
+                "P6": 71.61,
+                "P7": 51.92,
+                "P2": 63.77,
+                "P1": 11.03,
+                "P9": 42.01,
+                "P4": 60.33
+            }
+        },
+        {
+            "name": "S10",
+            "price": 0.0,
+            "upper": 92.95,
+            "quality": {
+                "P10": 64.57,
+                "P3": 30.73,
+                "P5": 27.02,
+                "P8": 58.72,
+                "P6": 46.32,
+                "P7": 55.28,
+                "P2": 31.65,
+                "P1": 19.42,
+                "P9": 31.91,
+                "P4": 21.38
+            }
+        },
+        {
+            "name": "S11",
+            "price": 0.0,
+            "upper": 104.51,
+            "quality": {
+                "P10": 49.85,
+                "P3": 67.18,
+                "P5": 65.63,
+                "P8": 19.07,
+                "P6": 43.02,
+                "P7": 9.49,
+                "P2": 20.13,
+                "P1": 59.33,
+                "P9": 43.59,
+                "P4": 27.72
+            }
+        },
+        {
+            "name": "S12",
+            "price": 0.0,
+            "upper": 107.01,
+            "quality": {
+                "P10": 61.32,
+                "P3": 38.82,
+                "P5": 9.28,
+                "P8": 20.33,
+                "P6": 38.98,
+                "P7": 22.67,
+                "P2": 39.3,
+                "P1": 73.77,
+                "P9": 27.38,
+                "P4": 10.83
+            }
+        },
+        {
+            "name": "S13",
+            "price": 0.0,
+            "upper": 131.53,
+            "quality": {
+                "P10": 65.26,
+                "P3": 73.08,
+                "P5": 67.73,
+                "P8": 34.81,
+                "P6": 34.8,
+                "P7": 70.83,
+                "P2": 12.13,
+                "P1": 67.98,
+                "P9": 13.47,
+                "P4": 26.45
+            }
+        },
+        {
+            "name": "S14",
+            "price": 0.0,
+            "upper": 12.98,
+            "quality": {
+                "P10": 29.75,
+                "P3": 49.29,
+                "P5": 23.44,
+                "P8": 43.07,
+                "P6": 69.02,
+                "P7": 24.97,
+                "P2": 13.27,
+                "P1": 33.79,
+                "P9": 74.16,
+                "P4": 42.91
+            }
+        },
+        {
+            "name": "S15",
+            "price": 0.0,
+            "upper": 108.4,
+            "quality": {
+                "P10": 50.9,
+                "P3": 71.17,
+                "P5": 65.46,
+                "P8": 24.42,
+                "P6": 44.65,
+                "P7": 63.55,
+                "P2": 74.22,
+                "P1": 31.24,
+                "P9": 45.74,
+                "P4": 43.82
+            }
+        },
+        {
+            "name": "S16",
+            "price": 0.0,
+            "upper": 141.04,
+            "quality": {
+                "P10": 72.91,
+                "P3": 70.47,
+                "P5": 31.49,
+                "P8": 62.24,
+                "P6": 52.39,
+                "P7": 69.12,
+                "P2": 25.92,
+                "P1": 40.34,
+                "P9": 73.45,
+                "P4": 29.79
+            }
+        },
+        {
+            "name": "S17",
+            "price": 0.0,
+            "upper": 73.47,
+            "quality": {
+                "P10": 46.71,
+                "P3": 63.04,
+                "P5": 21.05,
+                "P8": 49.51,
+                "P6": 63.15,
+                "P7": 70.94,
+                "P2": 37.45,
+                "P1": 46.23,
+                "P9": 34.56,
+                "P4": 24.6
+            }
+        },
+        {
+            "name": "S18",
+            "price": 0.0,
+            "upper": 112.8,
+            "quality": {
+                "P10": 30.3,
+                "P3": 41.55,
+                "P5": 34.51,
+                "P8": 30.48,
+                "P6": 14.3,
+                "P7": 18.28,
+                "P2": 64.24,
+                "P1": 32.57,
+                "P9": 70.91,
+                "P4": 18.77
+            }
+        },
+        {
+            "name": "S19",
+            "price": 0.0,
+            "upper": 160.85,
+            "quality": {
+                "P10": 72.12,
+                "P3": 72.57,
+                "P5": 40.15,
+                "P8": 71.95,
+                "P6": 55.11,
+                "P7": 52.59,
+                "P2": 48.39,
+                "P1": 31.49,
+                "P9": 47.97,
+                "P4": 69.47
+            }
+        },
+        {
+            "name": "S20",
+            "price": 0.0,
+            "upper": 14.24,
+            "quality": {
+                "P10": 28.23,
+                "P3": 38.97,
+                "P5": 36.39,
+                "P8": 46.98,
+                "P6": 11.04,
+                "P7": 34.04,
+                "P2": 71.56,
+                "P1": 61.14,
+                "P9": 27.92,
+                "P4": 49.55
+            }
+        },
+        {
+            "name": "S21",
+            "price": 0.0,
+            "upper": 134.28,
+            "quality": {
+                "P10": 54.6,
+                "P3": 22.58,
+                "P5": 42.66,
+                "P8": 64.7,
+                "P6": 36.13,
+                "P7": 15.48,
+                "P2": 23.45,
+                "P1": 59.48,
+                "P9": 56.72,
+                "P4": 60.28
+            }
+        },
+        {
+            "name": "S22",
+            "price": 0.0,
+            "upper": 130.89,
+            "quality": {
+                "P10": 59.41,
+                "P3": 43.04,
+                "P5": 16.31,
+                "P8": 11.59,
+                "P6": 59.62,
+                "P7": 62.71,
+                "P2": 32.58,
+                "P1": 51.68,
+                "P9": 41.81,
+                "P4": 66.08
+            }
+        },
+        {
+            "name": "S23",
+            "price": 0.0,
+            "upper": 79.7,
+            "quality": {
+                "P10": 8.72,
+                "P3": 8.15,
+                "P5": 58.11,
+                "P8": 49.38,
+                "P6": 31.22,
+                "P7": 71.21,
+                "P2": 67.33,
+                "P1": 66.41,
+                "P9": 16.01,
+                "P4": 37.81
+            }
+        },
+        {
+            "name": "S24",
+            "price": 0.0,
+            "upper": 103.76,
+            "quality": {
+                "P10": 39.07,
+                "P3": 59.85,
+                "P5": 16.83,
+                "P8": 28.43,
+                "P6": 15.58,
+                "P7": 47.42,
+                "P2": 33.94,
+                "P1": 23.36,
+                "P9": 51.66,
+                "P4": 74.11
+            }
+        },
+        {
+            "name": "S25",
+            "price": 0.0,
+            "upper": 102.38,
+            "quality": {
+                "P10": 53.74,
+                "P3": 36.13,
+                "P5": 52.47,
+                "P8": 10.93,
+                "P6": 11.8,
+                "P7": 13.39,
+                "P2": 37.05,
+                "P1": 43.91,
+                "P9": 20.52,
+                "P4": 62.19
+            }
+        }
+    ],
+    "pool_size": {
+        "L1": 108,
+        "L4": 112,
+        "L8": 137,
+        "L19": 132,
+        "L11": 101,
+        "L21": 94,
+        "L2": 111,
+        "L6": 95,
+        "L3": 54,
+        "L14": 105,
+        "L9": 59,
+        "L17": 87,
+        "L22": 91,
+        "L18": 95,
+        "L16": 83,
+        "L7": 83,
+        "L13": 110,
+        "L15": 136,
+        "L20": 78,
+        "L12": 58,
+        "L10": 89,
+        "L5": 124
+    },
+    "pool_to_product_bound": [
+        {
+            "cost": 64.0,
+            "product": "T28",
+            "bound": 105.0,
+            "pool": "L14"
+        },
+        {
+            "cost": 93.0,
+            "product": "T11",
+            "bound": 108.0,
+            "pool": "L1"
+        },
+        {
+            "cost": 73.0,
+            "product": "T15",
+            "bound": 87.0,
+            "pool": "L17"
+        },
+        {
+            "cost": 96.0,
+            "product": "T6",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 67.0,
+            "product": "T22",
+            "bound": 137.0,
+            "pool": "L8"
+        },
+        {
+            "cost": 52.0,
+            "product": "T18",
+            "bound": 105.0,
+            "pool": "L14"
+        },
+        {
+            "cost": 64.0,
+            "product": "T28",
+            "bound": 137.0,
+            "pool": "L8"
+        },
+        {
+            "cost": 37.0,
+            "product": "T30",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 72.0,
+            "product": "T21",
+            "bound": 110.37,
+            "pool": "L15"
+        },
+        {
+            "cost": 64.0,
+            "product": "T13",
+            "bound": 59.0,
+            "pool": "L9"
+        },
+        {
+            "cost": 21.0,
+            "product": "T19",
+            "bound": 83.0,
+            "pool": "L16"
+        },
+        {
+            "cost": 52.0,
+            "product": "T17",
+            "bound": 91.0,
+            "pool": "L22"
+        },
+        {
+            "cost": 100.0,
+            "product": "T25",
+            "bound": 95.0,
+            "pool": "L6"
+        },
+        {
+            "cost": 34.0,
+            "product": "T9",
+            "bound": 83.0,
+            "pool": "L16"
+        },
+        {
+            "cost": 89.0,
+            "product": "T29",
+            "bound": 83.0,
+            "pool": "L16"
+        },
+        {
+            "cost": 17.0,
+            "product": "T27",
+            "bound": 58.0,
+            "pool": "L12"
+        },
+        {
+            "cost": 34.0,
+            "product": "T9",
+            "bound": 123.91,
+            "pool": "L15"
+        },
+        {
+            "cost": 52.0,
+            "product": "T17",
+            "bound": 95.0,
+            "pool": "L18"
+        },
+        {
+            "cost": 17.0,
+            "product": "T27",
+            "bound": 74.1,
+            "pool": "L7"
+        },
+        {
+            "cost": 85.0,
+            "product": "T20",
+            "bound": 91.0,
+            "pool": "L22"
+        },
+        {
+            "cost": 23.0,
+            "product": "T4",
+            "bound": 81.13,
+            "pool": "L6"
+        },
+        {
+            "cost": 52.0,
+            "product": "T18",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 67.0,
+            "product": "T22",
+            "bound": 89.0,
+            "pool": "L10"
+        },
+        {
+            "cost": 62.0,
+            "product": "T1",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 21.0,
+            "product": "T19",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 67.0,
+            "product": "T22",
+            "bound": 87.0,
+            "pool": "L17"
+        },
+        {
+            "cost": 78.0,
+            "product": "T8",
+            "bound": 82.91,
+            "pool": "L11"
+        },
+        {
+            "cost": 48.0,
+            "product": "T7",
+            "bound": 137.0,
+            "pool": "L8"
+        },
+        {
+            "cost": 72.0,
+            "product": "T21",
+            "bound": 95.0,
+            "pool": "L18"
+        },
+        {
+            "cost": 53.0,
+            "product": "T26",
+            "bound": 101.0,
+            "pool": "L11"
+        },
+        {
+            "cost": 64.0,
+            "product": "T28",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 93.0,
+            "product": "T11",
+            "bound": 112.0,
+            "pool": "L4"
+        },
+        {
+            "cost": 37.0,
+            "product": "T30",
+            "bound": 105.0,
+            "pool": "L14"
+        },
+        {
+            "cost": 78.0,
+            "product": "T8",
+            "bound": 82.91,
+            "pool": "L19"
+        },
+        {
+            "cost": 37.0,
+            "product": "T30",
+            "bound": 87.0,
+            "pool": "L17"
+        },
+        {
+            "cost": 52.0,
+            "product": "T17",
+            "bound": 111.0,
+            "pool": "L2"
+        },
+        {
+            "cost": 17.0,
+            "product": "T23",
+            "bound": 109.47,
+            "pool": "L4"
+        },
+        {
+            "cost": 17.0,
+            "product": "T5",
+            "bound": 74.16,
+            "pool": "L4"
+        },
+        {
+            "cost": 89.0,
+            "product": "T16",
+            "bound": 124.0,
+            "pool": "L5"
+        },
+        {
+            "cost": 82.0,
+            "product": "T3",
+            "bound": 59.0,
+            "pool": "L9"
+        },
+        {
+            "cost": 17.0,
+            "product": "T27",
+            "bound": 74.1,
+            "pool": "L6"
+        },
+        {
+            "cost": 64.0,
+            "product": "T28",
+            "bound": 95.0,
+            "pool": "L18"
+        },
+        {
+            "cost": 64.0,
+            "product": "T28",
+            "bound": 136.0,
+            "pool": "L15"
+        },
+        {
+            "cost": 17.0,
+            "product": "T23",
+            "bound": 109.47,
+            "pool": "L15"
+        },
+        {
+            "cost": 24.0,
+            "product": "T2",
+            "bound": 109.22,
+            "pool": "L2"
+        },
+        {
+            "cost": 62.0,
+            "product": "T24",
+            "bound": 108.0,
+            "pool": "L1"
+        },
+        {
+            "cost": 17.0,
+            "product": "T5",
+            "bound": 74.16,
+            "pool": "L21"
+        },
+        {
+            "cost": 89.0,
+            "product": "T16",
+            "bound": 83.0,
+            "pool": "L7"
+        },
+        {
+            "cost": 64.0,
+            "product": "T13",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 85.0,
+            "product": "T20",
+            "bound": 108.79,
+            "pool": "L15"
+        },
+        {
+            "cost": 47.0,
+            "product": "T14",
+            "bound": 80.09,
+            "pool": "L16"
+        },
+        {
+            "cost": 96.0,
+            "product": "T6",
+            "bound": 89.0,
+            "pool": "L10"
+        },
+        {
+            "cost": 48.0,
+            "product": "T7",
+            "bound": 105.0,
+            "pool": "L14"
+        },
+        {
+            "cost": 82.0,
+            "product": "T3",
+            "bound": 91.0,
+            "pool": "L22"
+        },
+        {
+            "cost": 92.0,
+            "product": "T10",
+            "bound": 95.0,
+            "pool": "L6"
+        },
+        {
+            "cost": 52.0,
+            "product": "T18",
+            "bound": 124.0,
+            "pool": "L5"
+        },
+        {
+            "cost": 62.0,
+            "product": "T1",
+            "bound": 111.0,
+            "pool": "L2"
+        },
+        {
+            "cost": 23.0,
+            "product": "T4",
+            "bound": 58.0,
+            "pool": "L12"
+        },
+        {
+            "cost": 17.0,
+            "product": "T27",
+            "bound": 74.1,
+            "pool": "L15"
+        },
+        {
+            "cost": 37.0,
+            "product": "T30",
+            "bound": 137.0,
+            "pool": "L8"
+        },
+        {
+            "cost": 17.0,
+            "product": "T23",
+            "bound": 95.0,
+            "pool": "L6"
+        },
+        {
+            "cost": 64.0,
+            "product": "T13",
+            "bound": 84.66,
+            "pool": "L11"
+        },
+        {
+            "cost": 64.0,
+            "product": "T13",
+            "bound": 84.66,
+            "pool": "L21"
+        },
+        {
+            "cost": 85.0,
+            "product": "T20",
+            "bound": 101.0,
+            "pool": "L11"
+        },
+        {
+            "cost": 47.0,
+            "product": "T14",
+            "bound": 80.09,
+            "pool": "L2"
+        },
+        {
+            "cost": 37.0,
+            "product": "T30",
+            "bound": 89.0,
+            "pool": "L10"
+        },
+        {
+            "cost": 17.0,
+            "product": "T23",
+            "bound": 109.47,
+            "pool": "L5"
+        },
+        {
+            "cost": 52.0,
+            "product": "T17",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 67.0,
+            "product": "T22",
+            "bound": 95.0,
+            "pool": "L6"
+        },
+        {
+            "cost": 23.0,
+            "product": "T4",
+            "bound": 81.13,
+            "pool": "L1"
+        },
+        {
+            "cost": 23.0,
+            "product": "T4",
+            "bound": 81.13,
+            "pool": "L21"
+        },
+        {
+            "cost": 62.0,
+            "product": "T1",
+            "bound": 58.0,
+            "pool": "L12"
+        },
+        {
+            "cost": 37.0,
+            "product": "T30",
+            "bound": 58.0,
+            "pool": "L12"
+        },
+        {
+            "cost": 52.0,
+            "product": "T17",
+            "bound": 132.0,
+            "pool": "L19"
+        },
+        {
+            "cost": 73.0,
+            "product": "T15",
+            "bound": 105.0,
+            "pool": "L14"
+        },
+        {
+            "cost": 67.0,
+            "product": "T22",
+            "bound": 124.0,
+            "pool": "L5"
+        },
+        {
+            "cost": 17.0,
+            "product": "T5",
+            "bound": 58.0,
+            "pool": "L12"
+        },
+        {
+            "cost": 21.0,
+            "product": "T19",
+            "bound": 112.0,
+            "pool": "L4"
+        },
+        {
+            "cost": 73.0,
+            "product": "T15",
+            "bound": 83.0,
+            "pool": "L7"
+        },
+        {
+            "cost": 17.0,
+            "product": "T23",
+            "bound": 89.0,
+            "pool": "L10"
+        },
+        {
+            "cost": 24.0,
+            "product": "T2",
+            "bound": 91.0,
+            "pool": "L22"
+        },
+        {
+            "cost": 52.0,
+            "product": "T18",
+            "bound": 101.0,
+            "pool": "L11"
+        },
+        {
+            "cost": 67.0,
+            "product": "T22",
+            "bound": 111.0,
+            "pool": "L2"
+        },
+        {
+            "cost": 64.0,
+            "product": "T13",
+            "bound": 84.66,
+            "pool": "L8"
+        },
+        {
+            "cost": 17.0,
+            "product": "T23",
+            "bound": 109.47,
+            "pool": "L19"
+        },
+        {
+            "cost": 62.0,
+            "product": "T24",
+            "bound": 83.0,
+            "pool": "L16"
+        },
+        {
+            "cost": 23.0,
+            "product": "T4",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 89.0,
+            "product": "T16",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 64.0,
+            "product": "T28",
+            "bound": 83.0,
+            "pool": "L7"
+        },
+        {
+            "cost": 67.0,
+            "product": "T22",
+            "bound": 83.0,
+            "pool": "L7"
+        },
+        {
+            "cost": 67.0,
+            "product": "T22",
+            "bound": 110.0,
+            "pool": "L13"
+        },
+        {
+            "cost": 48.0,
+            "product": "T7",
+            "bound": 83.0,
+            "pool": "L7"
+        },
+        {
+            "cost": 64.0,
+            "product": "T28",
+            "bound": 110.0,
+            "pool": "L13"
+        },
+        {
+            "cost": 62.0,
+            "product": "T1",
+            "bound": 112.0,
+            "pool": "L4"
+        },
+        {
+            "cost": 96.0,
+            "product": "T6",
+            "bound": 112.0,
+            "pool": "L4"
+        },
+        {
+            "cost": 53.0,
+            "product": "T26",
+            "bound": 83.0,
+            "pool": "L16"
+        },
+        {
+            "cost": 21.0,
+            "product": "T19",
+            "bound": 124.0,
+            "pool": "L5"
+        },
+        {
+            "cost": 17.0,
+            "product": "T23",
+            "bound": 58.0,
+            "pool": "L12"
+        },
+        {
+            "cost": 82.0,
+            "product": "T3",
+            "bound": 111.0,
+            "pool": "L2"
+        },
+        {
+            "cost": 89.0,
+            "product": "T29",
+            "bound": 99.43,
+            "pool": "L2"
+        },
+        {
+            "cost": 89.0,
+            "product": "T29",
+            "bound": 95.0,
+            "pool": "L18"
+        },
+        {
+            "cost": 96.0,
+            "product": "T6",
+            "bound": 101.0,
+            "pool": "L11"
+        },
+        {
+            "cost": 34.0,
+            "product": "T9",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 48.0,
+            "product": "T7",
+            "bound": 124.0,
+            "pool": "L5"
+        },
+        {
+            "cost": 64.0,
+            "product": "T13",
+            "bound": 58.0,
+            "pool": "L12"
+        },
+        {
+            "cost": 89.0,
+            "product": "T29",
+            "bound": 99.43,
+            "pool": "L13"
+        },
+        {
+            "cost": 47.0,
+            "product": "T14",
+            "bound": 80.09,
+            "pool": "L21"
+        },
+        {
+            "cost": 92.0,
+            "product": "T10",
+            "bound": 105.0,
+            "pool": "L14"
+        },
+        {
+            "cost": 17.0,
+            "product": "T27",
+            "bound": 74.1,
+            "pool": "L14"
+        },
+        {
+            "cost": 62.0,
+            "product": "T1",
+            "bound": 124.0,
+            "pool": "L5"
+        },
+        {
+            "cost": 96.0,
+            "product": "T6",
+            "bound": 91.0,
+            "pool": "L22"
+        },
+        {
+            "cost": 64.0,
+            "product": "T13",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 92.0,
+            "product": "T10",
+            "bound": 58.0,
+            "pool": "L12"
+        },
+        {
+            "cost": 82.0,
+            "product": "T3",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 24.0,
+            "product": "T2",
+            "bound": 109.22,
+            "pool": "L15"
+        },
+        {
+            "cost": 52.0,
+            "product": "T18",
+            "bound": 111.0,
+            "pool": "L2"
+        },
+        {
+            "cost": 17.0,
+            "product": "T23",
+            "bound": 109.47,
+            "pool": "L2"
+        },
+        {
+            "cost": 64.0,
+            "product": "T28",
+            "bound": 83.0,
+            "pool": "L16"
+        },
+        {
+            "cost": 21.0,
+            "product": "T19",
+            "bound": 137.0,
+            "pool": "L8"
+        },
+        {
+            "cost": 93.0,
+            "product": "T11",
+            "bound": 132.0,
+            "pool": "L19"
+        },
+        {
+            "cost": 78.0,
+            "product": "T8",
+            "bound": 82.91,
+            "pool": "L4"
+        },
+        {
+            "cost": 17.0,
+            "product": "T27",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 17.0,
+            "product": "T23",
+            "bound": 87.0,
+            "pool": "L17"
+        },
+        {
+            "cost": 78.0,
+            "product": "T8",
+            "bound": 82.91,
+            "pool": "L14"
+        },
+        {
+            "cost": 62.0,
+            "product": "T1",
+            "bound": 101.0,
+            "pool": "L11"
+        },
+        {
+            "cost": 89.0,
+            "product": "T16",
+            "bound": 111.0,
+            "pool": "L2"
+        },
+        {
+            "cost": 48.0,
+            "product": "T7",
+            "bound": 132.0,
+            "pool": "L19"
+        },
+        {
+            "cost": 73.0,
+            "product": "T15",
+            "bound": 94.0,
+            "pool": "L21"
+        },
+        {
+            "cost": 73.0,
+            "product": "T15",
+            "bound": 95.0,
+            "pool": "L6"
+        },
+        {
+            "cost": 24.0,
+            "product": "T2",
+            "bound": 105.0,
+            "pool": "L14"
+        },
+        {
+            "cost": 52.0,
+            "product": "T17",
+            "bound": 124.0,
+            "pool": "L5"
+        },
+        {
+            "cost": 52.0,
+            "product": "T18",
+            "bound": 137.0,
+            "pool": "L8"
+        },
+        {
+            "cost": 17.0,
+            "product": "T27",
+            "bound": 59.0,
+            "pool": "L9"
+        },
+        {
+            "cost": 85.0,
+            "product": "T20",
+            "bound": 108.79,
+            "pool": "L5"
+        },
+        {
+            "cost": 37.0,
+            "product": "T30",
+            "bound": 111.0,
+            "pool": "L2"
+        },
+        {
+            "cost": 21.0,
+            "product": "T19",
+            "bound": 94.0,
+            "pool": "L21"
+        },
+        {
+            "cost": 17.0,
+            "product": "T5",
+            "bound": 74.16,
+            "pool": "L17"
+        },
+        {
+            "cost": 48.0,
+            "product": "T7",
+            "bound": 95.0,
+            "pool": "L18"
+        },
+        {
+            "cost": 95.0,
+            "product": "T12",
+            "bound": 91.0,
+            "pool": "L22"
+        },
+        {
+            "cost": 23.0,
+            "product": "T4",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 53.0,
+            "product": "T26",
+            "bound": 95.0,
+            "pool": "L6"
+        },
+        {
+            "cost": 89.0,
+            "product": "T29",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 72.0,
+            "product": "T21",
+            "bound": 91.0,
+            "pool": "L22"
+        },
+        {
+            "cost": 23.0,
+            "product": "T4",
+            "bound": 81.13,
+            "pool": "L14"
+        },
+        {
+            "cost": 34.0,
+            "product": "T9",
+            "bound": 101.0,
+            "pool": "L11"
+        },
+        {
+            "cost": 89.0,
+            "product": "T16",
+            "bound": 87.0,
+            "pool": "L17"
+        },
+        {
+            "cost": 48.0,
+            "product": "T7",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 72.0,
+            "product": "T21",
+            "bound": 83.0,
+            "pool": "L16"
+        },
+        {
+            "cost": 85.0,
+            "product": "T20",
+            "bound": 87.0,
+            "pool": "L17"
+        },
+        {
+            "cost": 100.0,
+            "product": "T25",
+            "bound": 83.0,
+            "pool": "L7"
+        },
+        {
+            "cost": 95.0,
+            "product": "T12",
+            "bound": 137.0,
+            "pool": "L8"
+        },
+        {
+            "cost": 73.0,
+            "product": "T15",
+            "bound": 83.0,
+            "pool": "L16"
+        },
+        {
+            "cost": 64.0,
+            "product": "T13",
+            "bound": 83.0,
+            "pool": "L16"
+        },
+        {
+            "cost": 62.0,
+            "product": "T24",
+            "bound": 89.0,
+            "pool": "L10"
+        },
+        {
+            "cost": 53.0,
+            "product": "T26",
+            "bound": 111.0,
+            "pool": "L2"
+        },
+        {
+            "cost": 52.0,
+            "product": "T17",
+            "bound": 87.0,
+            "pool": "L17"
+        },
+        {
+            "cost": 93.0,
+            "product": "T11",
+            "bound": 137.0,
+            "pool": "L8"
+        },
+        {
+            "cost": 72.0,
+            "product": "T21",
+            "bound": 95.0,
+            "pool": "L6"
+        },
+        {
+            "cost": 72.0,
+            "product": "T21",
+            "bound": 89.0,
+            "pool": "L10"
+        },
+        {
+            "cost": 62.0,
+            "product": "T24",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 17.0,
+            "product": "T5",
+            "bound": 74.16,
+            "pool": "L11"
+        },
+        {
+            "cost": 17.0,
+            "product": "T23",
+            "bound": 105.0,
+            "pool": "L14"
+        },
+        {
+            "cost": 34.0,
+            "product": "T9",
+            "bound": 110.0,
+            "pool": "L13"
+        },
+        {
+            "cost": 67.0,
+            "product": "T22",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 17.0,
+            "product": "T5",
+            "bound": 74.16,
+            "pool": "L1"
+        },
+        {
+            "cost": 93.0,
+            "product": "T11",
+            "bound": 89.0,
+            "pool": "L10"
+        },
+        {
+            "cost": 100.0,
+            "product": "T25",
+            "bound": 110.0,
+            "pool": "L13"
+        },
+        {
+            "cost": 17.0,
+            "product": "T27",
+            "bound": 74.1,
+            "pool": "L22"
+        },
+        {
+            "cost": 96.0,
+            "product": "T6",
+            "bound": 136.0,
+            "pool": "L15"
+        },
+        {
+            "cost": 17.0,
+            "product": "T5",
+            "bound": 74.16,
+            "pool": "L20"
+        },
+        {
+            "cost": 89.0,
+            "product": "T16",
+            "bound": 58.0,
+            "pool": "L12"
+        },
+        {
+            "cost": 62.0,
+            "product": "T1",
+            "bound": 83.0,
+            "pool": "L16"
+        },
+        {
+            "cost": 89.0,
+            "product": "T29",
+            "bound": 59.0,
+            "pool": "L9"
+        },
+        {
+            "cost": 93.0,
+            "product": "T11",
+            "bound": 101.0,
+            "pool": "L11"
+        },
+        {
+            "cost": 37.0,
+            "product": "T30",
+            "bound": 136.0,
+            "pool": "L15"
+        },
+        {
+            "cost": 37.0,
+            "product": "T30",
+            "bound": 91.0,
+            "pool": "L22"
+        },
+        {
+            "cost": 52.0,
+            "product": "T17",
+            "bound": 59.0,
+            "pool": "L9"
+        },
+        {
+            "cost": 73.0,
+            "product": "T15",
+            "bound": 91.0,
+            "pool": "L22"
+        },
+        {
+            "cost": 17.0,
+            "product": "T23",
+            "bound": 59.0,
+            "pool": "L9"
+        },
+        {
+            "cost": 62.0,
+            "product": "T1",
+            "bound": 132.0,
+            "pool": "L19"
+        },
+        {
+            "cost": 93.0,
+            "product": "T11",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 82.0,
+            "product": "T3",
+            "bound": 83.0,
+            "pool": "L16"
+        },
+        {
+            "cost": 96.0,
+            "product": "T6",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 82.0,
+            "product": "T3",
+            "bound": 108.0,
+            "pool": "L1"
+        },
+        {
+            "cost": 48.0,
+            "product": "T7",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 64.0,
+            "product": "T28",
+            "bound": 58.0,
+            "pool": "L12"
+        },
+        {
+            "cost": 21.0,
+            "product": "T19",
+            "bound": 132.0,
+            "pool": "L19"
+        },
+        {
+            "cost": 72.0,
+            "product": "T21",
+            "bound": 108.0,
+            "pool": "L1"
+        },
+        {
+            "cost": 17.0,
+            "product": "T27",
+            "bound": 74.1,
+            "pool": "L11"
+        },
+        {
+            "cost": 93.0,
+            "product": "T11",
+            "bound": 136.0,
+            "pool": "L15"
+        },
+        {
+            "cost": 89.0,
+            "product": "T16",
+            "bound": 89.0,
+            "pool": "L10"
+        },
+        {
+            "cost": 78.0,
+            "product": "T8",
+            "bound": 82.91,
+            "pool": "L13"
+        },
+        {
+            "cost": 23.0,
+            "product": "T4",
+            "bound": 81.13,
+            "pool": "L7"
+        },
+        {
+            "cost": 73.0,
+            "product": "T15",
+            "bound": 107.62,
+            "pool": "L13"
+        },
+        {
+            "cost": 100.0,
+            "product": "T25",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 64.0,
+            "product": "T13",
+            "bound": 84.66,
+            "pool": "L22"
+        },
+        {
+            "cost": 89.0,
+            "product": "T29",
+            "bound": 83.0,
+            "pool": "L7"
+        },
+        {
+            "cost": 73.0,
+            "product": "T15",
+            "bound": 59.0,
+            "pool": "L9"
+        },
+        {
+            "cost": 92.0,
+            "product": "T10",
+            "bound": 137.0,
+            "pool": "L8"
+        },
+        {
+            "cost": 34.0,
+            "product": "T9",
+            "bound": 59.0,
+            "pool": "L9"
+        },
+        {
+            "cost": 37.0,
+            "product": "T30",
+            "bound": 124.0,
+            "pool": "L5"
+        },
+        {
+            "cost": 96.0,
+            "product": "T6",
+            "bound": 83.0,
+            "pool": "L7"
+        },
+        {
+            "cost": 17.0,
+            "product": "T27",
+            "bound": 74.1,
+            "pool": "L1"
+        },
+        {
+            "cost": 100.0,
+            "product": "T25",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 37.0,
+            "product": "T30",
+            "bound": 132.0,
+            "pool": "L19"
+        },
+        {
+            "cost": 78.0,
+            "product": "T8",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 21.0,
+            "product": "T19",
+            "bound": 101.0,
+            "pool": "L11"
+        },
+        {
+            "cost": 85.0,
+            "product": "T20",
+            "bound": 108.79,
+            "pool": "L19"
+        },
+        {
+            "cost": 17.0,
+            "product": "T5",
+            "bound": 74.16,
+            "pool": "L2"
+        },
+        {
+            "cost": 52.0,
+            "product": "T17",
+            "bound": 137.0,
+            "pool": "L8"
+        },
+        {
+            "cost": 24.0,
+            "product": "T2",
+            "bound": 83.0,
+            "pool": "L16"
+        },
+        {
+            "cost": 89.0,
+            "product": "T29",
+            "bound": 91.0,
+            "pool": "L22"
+        },
+        {
+            "cost": 96.0,
+            "product": "T6",
+            "bound": 110.0,
+            "pool": "L13"
+        },
+        {
+            "cost": 24.0,
+            "product": "T2",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 95.0,
+            "product": "T12",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 73.0,
+            "product": "T15",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 47.0,
+            "product": "T14",
+            "bound": 80.09,
+            "pool": "L14"
+        },
+        {
+            "cost": 17.0,
+            "product": "T5",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 89.0,
+            "product": "T16",
+            "bound": 83.0,
+            "pool": "L16"
+        },
+        {
+            "cost": 52.0,
+            "product": "T17",
+            "bound": 136.0,
+            "pool": "L15"
+        },
+        {
+            "cost": 95.0,
+            "product": "T12",
+            "bound": 105.0,
+            "pool": "L14"
+        },
+        {
+            "cost": 85.0,
+            "product": "T20",
+            "bound": 95.0,
+            "pool": "L6"
+        },
+        {
+            "cost": 34.0,
+            "product": "T9",
+            "bound": 108.0,
+            "pool": "L1"
+        },
+        {
+            "cost": 93.0,
+            "product": "T11",
+            "bound": 95.0,
+            "pool": "L6"
+        },
+        {
+            "cost": 93.0,
+            "product": "T11",
+            "bound": 124.0,
+            "pool": "L5"
+        },
+        {
+            "cost": 17.0,
+            "product": "T5",
+            "bound": 74.16,
+            "pool": "L6"
+        },
+        {
+            "cost": 52.0,
+            "product": "T18",
+            "bound": 108.0,
+            "pool": "L1"
+        },
+        {
+            "cost": 37.0,
+            "product": "T30",
+            "bound": 59.0,
+            "pool": "L9"
+        },
+        {
+            "cost": 62.0,
+            "product": "T24",
+            "bound": 116.25,
+            "pool": "L19"
+        },
+        {
+            "cost": 48.0,
+            "product": "T7",
+            "bound": 112.0,
+            "pool": "L4"
+        },
+        {
+            "cost": 62.0,
+            "product": "T1",
+            "bound": 95.0,
+            "pool": "L6"
+        },
+        {
+            "cost": 85.0,
+            "product": "T20",
+            "bound": 89.0,
+            "pool": "L10"
+        },
+        {
+            "cost": 17.0,
+            "product": "T27",
+            "bound": 74.1,
+            "pool": "L4"
+        },
+        {
+            "cost": 53.0,
+            "product": "T26",
+            "bound": 83.0,
+            "pool": "L7"
+        },
+        {
+            "cost": 48.0,
+            "product": "T7",
+            "bound": 101.0,
+            "pool": "L11"
+        },
+        {
+            "cost": 67.0,
+            "product": "T22",
+            "bound": 101.0,
+            "pool": "L11"
+        },
+        {
+            "cost": 47.0,
+            "product": "T14",
+            "bound": 80.09,
+            "pool": "L10"
+        },
+        {
+            "cost": 53.0,
+            "product": "T26",
+            "bound": 108.0,
+            "pool": "L1"
+        },
+        {
+            "cost": 100.0,
+            "product": "T25",
+            "bound": 122.57,
+            "pool": "L8"
+        },
+        {
+            "cost": 47.0,
+            "product": "T14",
+            "bound": 80.09,
+            "pool": "L6"
+        },
+        {
+            "cost": 85.0,
+            "product": "T20",
+            "bound": 108.79,
+            "pool": "L4"
+        },
+        {
+            "cost": 95.0,
+            "product": "T12",
+            "bound": 101.0,
+            "pool": "L11"
+        },
+        {
+            "cost": 52.0,
+            "product": "T18",
+            "bound": 91.0,
+            "pool": "L22"
+        },
+        {
+            "cost": 89.0,
+            "product": "T16",
+            "bound": 136.0,
+            "pool": "L15"
+        },
+        {
+            "cost": 85.0,
+            "product": "T20",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 47.0,
+            "product": "T14",
+            "bound": 80.09,
+            "pool": "L19"
+        },
+        {
+            "cost": 73.0,
+            "product": "T15",
+            "bound": 107.62,
+            "pool": "L1"
+        },
+        {
+            "cost": 89.0,
+            "product": "T29",
+            "bound": 99.43,
+            "pool": "L5"
+        },
+        {
+            "cost": 53.0,
+            "product": "T26",
+            "bound": 112.0,
+            "pool": "L4"
+        },
+        {
+            "cost": 48.0,
+            "product": "T7",
+            "bound": 108.0,
+            "pool": "L1"
+        },
+        {
+            "cost": 48.0,
+            "product": "T7",
+            "bound": 111.0,
+            "pool": "L2"
+        },
+        {
+            "cost": 89.0,
+            "product": "T29",
+            "bound": 58.0,
+            "pool": "L12"
+        },
+        {
+            "cost": 34.0,
+            "product": "T9",
+            "bound": 87.0,
+            "pool": "L17"
+        },
+        {
+            "cost": 62.0,
+            "product": "T1",
+            "bound": 78.0,
+            "pool": "L20"
+        },
+        {
+            "cost": 17.0,
+            "product": "T27",
+            "bound": 74.1,
+            "pool": "L21"
+        },
+        {
+            "cost": 21.0,
+            "product": "T19",
+            "bound": 58.0,
+            "pool": "L12"
+        },
+        {
+            "cost": 73.0,
+            "product": "T15",
+            "bound": 107.62,
+            "pool": "L15"
+        },
+        {
+            "cost": 92.0,
+            "product": "T10",
+            "bound": 54.0,
+            "pool": "L3"
+        },
+        {
+            "cost": 100.0,
+            "product": "T25",
+            "bound": 122.57,
+            "pool": "L15"
+        },
+        {
+            "cost": 95.0,
+            "product": "T12",
+            "bound": 132.0,
+            "pool": "L19"
+        },
+        {
+            "cost": 89.0,
+            "product": "T16",
+            "bound": 132.0,
+            "pool": "L19"
+        },
+        {
+            "cost": 89.0,
+            "product": "T16",
+            "bound": 108.0,
+            "pool": "L1"
+        }
+    ]
+}
