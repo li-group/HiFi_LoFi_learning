@@ -27,7 +27,7 @@ const INFERENCE_EVAL_SAMPLES = 1000 # How many vaid samples evaluate
 const INFERENCE_EVAL_START = 1
 const INFERENCE_RANDOM_SEED = 20
 const INFERENCE_CANDIDATE_POOL_SIZE = 3000
-const SAVE_GENERATED_TEST_DATA = true
+const SAVE_GENERATED_TEST_DATA = false
 const EVALUATION_CONTEXT_CACHE = Dict{Tuple{String,Int,Int,Int},Dict{String,Any}}()
 
 const NNFEATURES = 6
@@ -124,12 +124,31 @@ end
 function load_best_model_info(system_name::String, model_type::Symbol;
     summary_dir::String=MODEL_SELECTION_DIR)
     per_system_path = joinpath(summary_dir, "evaluation_results_$(system_name).json")
-    isfile(per_system_path) || error("Evaluation summary not found for $system_name at $per_system_path")
-
+    per_system_path1 = joinpath(summary_dir, "evaluation_results_semi_$(system_name).json")
+    #(isfile(per_system_path) or isfile(per_system_path1))|| error("Evaluation summary not found for $system_name at $per_system_path")
+    if !(isfile(per_system_path) || isfile(per_system_path1))
+        error("Evaluation summary not found for $system_name at $per_system_path")
+    end
     summary_data = JSON.parsefile(per_system_path)
+    summary_data1 = JSON.parsefile(per_system_path1)
     status = get(summary_data, "status", "unknown")
     model_key = String(model_type)
-    haskey(summary_data, model_key) || error(
+    if(haskey(summary_data, model_key))
+        best_model = summary_data[model_key]["best_model"]
+    elseif haskey(summary_data1, model_key)
+        best_model = summary_data1[model_key]["best_model"]
+    else
+        error(
+        "No $model_key results found for $system_name. " *
+        "Summary status is '$status' at $per_system_path"
+        )
+        best_model === nothing && error(
+        "No best $model_key model stored for $system_name. " *
+        "Summary status is '$status' at $per_system_path"
+    )
+    end
+
+    #=haskey(summary_data, model_key) or haskey(summary_data1, model_key) || error(
         "No $model_key results found for $system_name. " *
         "Summary status is '$status' at $per_system_path"
     )
@@ -138,10 +157,11 @@ function load_best_model_info(system_name::String, model_type::Symbol;
     best_model === nothing && error(
         "No best $model_key model stored for $system_name. " *
         "Summary status is '$status' at $per_system_path"
-    )
+    )=#
 
     return best_model
 end
+
 
 function load_best_model(system_name::String, model_type::Symbol;
     summary_dir::String=MODEL_SELECTION_DIR)
@@ -418,8 +438,8 @@ function evaluate_inference_times(data_probe, model_bundle)
     gnn_inference = build_gnn_inference_model(source_model)
     truncated_inference = build_truncated_inference_model(source_model)
 
-    ac_time = Float64[]
-    dc_time = Float64[]
+    #ac_time = Float64[]
+    #dc_time = Float64[]
     pred_time = Float64[]
     solo_gnn_time = Float64[]
     skipped_samples = Int[]
@@ -428,7 +448,7 @@ function evaluate_inference_times(data_probe, model_bundle)
         pd = vec(Array(probe.graph.x[1, :]))
         qd = vec(Array(probe.graph.x[2, :]))
 
-        dc_result = nothing
+        #=dc_result = nothing
         dc_elapsed = @elapsed dc_result = DCPM(deepcopy(probe.data), pd, qd; solver=Gurobi.Optimizer)
         if !solver_succeeded(dc_result)
             println("Skipping inference timing sample $i because DC flag != 1. flag = $(get(dc_result, "flag", nothing))")
@@ -445,20 +465,20 @@ function evaluate_inference_times(data_probe, model_bundle)
         end
 
         push!(dc_time, dc_elapsed)
-        push!(ac_time, ac_elapsed)
+        push!(ac_time, ac_elapsed)=#
         push!(pred_time, @elapsed truncated_inference(probe))
         push!(solo_gnn_time, @elapsed gnn_inference(probe))
     end
 
     return Dict(
-        "ac_time" => ac_time,
-        "dc_time" => dc_time,
+        #"ac_time" => ac_time,
+        #"dc_time" => dc_time,
         "pred_time" => pred_time,
         "solo_gnn_time" => solo_gnn_time,
         "skipped_samples" => skipped_samples,
         "summary" => Dict(
-            "ac_time" => summarize_timing_vector(ac_time),
-            "dc_time" => summarize_timing_vector(dc_time),
+            #"ac_time" => summarize_timing_vector(ac_time),
+            #"dc_time" => summarize_timing_vector(dc_time),
             "pred_time" => summarize_timing_vector(pred_time),
             "solo_gnn_time" => summarize_timing_vector(solo_gnn_time),
             "skipped_samples" => Dict("count" => length(skipped_samples), "indices" => skipped_samples)
@@ -596,14 +616,14 @@ function run_transductive_stage(systems=TRANSDUCTIVE_SYSTEMS)
     results = Dict{String,Any}()
 
     for system_name in systems
-        try
+        #try
             results[system_name] = run_inference_stage(
                 "transductive",
                 system_name,
                 system_name;
                 use_inductive_output=false
             )
-        catch err
+        #=catch err
             results[system_name] = Dict(
                 "stage" => "transductive",
                 "evaluation_system" => system_name,
@@ -613,7 +633,7 @@ function run_transductive_stage(systems=TRANSDUCTIVE_SYSTEMS)
             )
             println("Skipping transductive system $system_name")
             println(sprint(showerror, err))
-        end
+        end=#
     end
 
     return results
@@ -647,6 +667,6 @@ function run_inductive_stage(source_system::String=INDUCTIVE_SOURCE_SYSTEM, targ
 end
 
 transductive_results = run_transductive_stage()
-inductive_results = run_inductive_stage()
+#inductive_results = run_inductive_stage()
 
 inference_times_results = run_inference_times_for_systems(TRANSDUCTIVE_SYSTEMS)
