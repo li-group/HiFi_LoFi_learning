@@ -33,10 +33,10 @@ const TRAIN_SAMPLE_RANGE = 1:1
 const RANDOM_SEED = 20
 
 const SYSTEM_TIME_BUDGETS = [
-   # ("pglib_opf_case500_goc", 5),
-    #("pglib_opf_case1354_pegase", 30),
+   ("pglib_opf_case500_goc", 5),
+   ("pglib_opf_case1354_pegase", 30),
     ("pglib_opf_case2000_goc", 120),
-    #("pglib_opf_case4661_sdet", 120),
+    ("pglib_opf_case4661_sdet", 120),
     ("pglib_opf_case13659_pegase", 180),
 ]
 
