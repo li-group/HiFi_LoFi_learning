@@ -147,8 +147,7 @@ function evaluate_current_hf_model(train_model, eval_context)
 
     pred, real, _ = InferenceUtils.evaluate_best_model_HF(
         eval_model,
-        eval_context["graph_loader"],
-        eval_context["init_val"]
+        eval_context["graph_loader"]
     )
     df = InferenceUtils.summarize_results(real, pred, eval_context["dc_vals"][from_samples:to_samples, :])
 

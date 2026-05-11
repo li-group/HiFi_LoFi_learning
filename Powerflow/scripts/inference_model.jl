@@ -36,11 +36,11 @@ const HEADS = 1
 const HIDDEN_DIM = 1024
 const INFERENCE_TIMES_DIR = "results_HF"
 
-const TRANSDUCTIVE_SYSTEMS = [
-    "pglib_opf_case500_goc",
-    "pglib_opf_case1354_pegase",
+TRANSDUCTIVE_SYSTEMS = [
+   # "pglib_opf_case500_goc",
+   # "pglib_opf_case1354_pegase",
     "pglib_opf_case2000_goc",
-   "pglib_opf_case4661_sdet",
+   #"pglib_opf_case4661_sdet",
     "pglib_opf_case13659_pegase"
 ]
 const INDUCTIVE_SOURCE_SYSTEM = "pglib_opf_case500_goc"
@@ -669,4 +669,12 @@ end
 transductive_results = run_transductive_stage()
 #inductive_results = run_inductive_stage()
 
+
+TRANSDUCTIVE_SYSTEMS = [
+    "pglib_opf_case500_goc",
+   "pglib_opf_case1354_pegase",
+    "pglib_opf_case2000_goc",
+   "pglib_opf_case4661_sdet",
+    "pglib_opf_case13659_pegase"
+]
 inference_times_results = run_inference_times_for_systems(TRANSDUCTIVE_SYSTEMS)

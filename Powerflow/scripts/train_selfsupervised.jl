@@ -33,10 +33,10 @@ const TRAIN_SAMPLE_RANGE = 1:1
 const RANDOM_SEED = 20
 
 const SYSTEM_TIME_BUDGETS = [
-    ("pglib_opf_case500_goc", 5),
-    ("pglib_opf_case1354_pegase", 30),
+   # ("pglib_opf_case500_goc", 5),
+    #("pglib_opf_case1354_pegase", 30),
     ("pglib_opf_case2000_goc", 120),
-    ("pglib_opf_case4661_sdet", 120),
+    #("pglib_opf_case4661_sdet", 120),
     ("pglib_opf_case13659_pegase", 180),
 ]
 
@@ -152,8 +152,7 @@ function evaluate_current_hf_model(train_model, eval_context)
 
     pred, real, _ = InferenceUtils.evaluate_best_model_HF(
         eval_model,
-        eval_context["graph_loader"],
-        eval_context["init_val"]
+        eval_context["graph_loader"]
     )
     df = InferenceUtils.summarize_results(real, pred, eval_context["dc_vals"][from_samples:to_samples, :])
 
