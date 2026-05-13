@@ -24,9 +24,7 @@ include("DataLoader.jl")
 include("Layers.jl")
 include("Utils.jl")
 
-#base_instances_list = ["instance_1_1","instance_2_1","instance_3_1","instance_4_1","instance_5_1"]
-#base_instances_list = ["instance_2_1","instance_4_1","instance_5_1"]
-#base_instances_list = ["instance_5_1"]
+
 base_instances_list = ["instance_5_1","instance_4_1","instance_3_1","instance_2_1","instance_1_1"]
 function inference_results(base_instance)
     Random.seed!(20)   
